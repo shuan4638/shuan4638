@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shuan Chen!
-- 👀 I’m interested in Music ML and Chemistry
+- 👀 I’m interested in ML and Chemistry
 - 💞️ I’m looking to collaborate on all the sustainable related project
 - 📫 How to reach me: shuankaist@kaist.ac.kr
 
