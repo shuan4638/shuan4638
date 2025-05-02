@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shuan Chen!
 - 👀 I’m interested in ML and Chemistry
-- 💞️ I’m looking to collaborate on all the sustainable related project
+- 💞️ I'm into Hayeon Byeon
+- 🤝 I’m looking to collaborate on all the sustainable related project
 - 📫 How to reach me: shuan.micc@gmail.com
 
 <!---
